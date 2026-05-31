@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
