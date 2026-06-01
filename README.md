@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -54,8 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
