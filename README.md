@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Dynamic Programming
 |  |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
