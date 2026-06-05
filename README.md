@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
