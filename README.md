@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
