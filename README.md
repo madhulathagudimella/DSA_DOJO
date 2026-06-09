@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 ## String
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Recursion
 |  |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
