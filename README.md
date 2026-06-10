@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
