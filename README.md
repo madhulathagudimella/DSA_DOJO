@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
+| [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
 | ------- |
