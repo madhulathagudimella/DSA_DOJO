@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0049-group-anagrams) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 ## Sliding Window
