@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1011-capacity-to-ship-packages-within-d-days) |
