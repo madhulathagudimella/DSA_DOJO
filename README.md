@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Hash Table
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 ## Trie
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1011-capacity-to-ship-packages-within-d-days) |
