@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0624-maximum-distance-in-arrays) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0624-maximum-distance-in-arrays) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Hash Table
 |  |
