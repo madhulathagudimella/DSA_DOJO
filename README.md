@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0560-subarray-sum-equals-k) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1480-running-sum-of-1d-array) |
