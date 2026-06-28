@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
@@ -308,5 +310,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
