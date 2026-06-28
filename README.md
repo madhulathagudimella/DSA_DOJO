@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0303-range-sum-query-immutable) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
