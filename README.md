@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
+| [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
