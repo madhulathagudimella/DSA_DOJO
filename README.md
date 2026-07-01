@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
