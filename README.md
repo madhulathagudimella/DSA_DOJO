@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1004-max-consecutive-ones-iii) |
