@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
+| [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
