@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
@@ -283,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
