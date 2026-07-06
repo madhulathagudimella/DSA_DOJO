@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
