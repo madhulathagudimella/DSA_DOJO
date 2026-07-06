@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0560-subarray-sum-equals-k) |
@@ -284,12 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
