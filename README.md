@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0303-range-sum-query-immutable) |
 | [0745-prefix-and-suffix-search](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0745-prefix-and-suffix-search) |
@@ -393,5 +395,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
