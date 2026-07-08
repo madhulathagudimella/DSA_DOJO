@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0567-permutation-in-string) |
@@ -399,4 +401,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
