@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
 ## Prefix Sum
 |  |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -409,8 +415,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0239-sliding-window-maximum) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
