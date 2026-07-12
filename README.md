@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0125-valid-palindrome) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
