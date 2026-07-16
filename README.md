@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3379-transformed-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0567-permutation-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0561-array-partition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1552-magnetic-force-between-two-balls) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
