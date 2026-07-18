@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1552-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1732-find-the-highest-altitude) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0994-rotting-oranges) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0567-permutation-in-string) |
+| [1861-rotating-the-box](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/3867-sum-of-gcd-of-formed-pairs) |
