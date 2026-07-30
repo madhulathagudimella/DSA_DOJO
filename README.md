@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1248-count-number-of-nice-subarrays) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0739-daily-temperatures) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0445-add-two-numbers-ii) |
 ## Counting Sort
 |  |
 | ------- |
