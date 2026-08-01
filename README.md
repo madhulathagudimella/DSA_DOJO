@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0445-add-two-numbers-ii) |
 ## Counting Sort
 |  |
@@ -495,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
