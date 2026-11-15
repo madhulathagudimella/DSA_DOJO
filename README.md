@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0084-largest-rectangle-in-histogram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/1861-rotating-the-box) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhulathagudimella/DSA_DOJO/tree/master/0167-two-sum-ii-input-array-is-sorted) |
